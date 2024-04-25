@@ -1,4 +1,4 @@
-package aik.sales.sales;
+package aik.sales.salesstrong;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
